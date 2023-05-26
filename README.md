@@ -1,8 +1,8 @@
-# BudgeBoss - Lighthouse Labs final project
+# BudgetBoss
 
 In today’s age, keeping track of your finances is more important than ever. With so many different transactions like groceries, side hustles, and monthly subscriptions, understanding how your money flows can become a pain.
 
-That is why we’d like to introduce BudgetBoss, a budgeting app that will keep track of your money for you. With BudgetBoss, you can record your income and expenses in your various accounts and view them all in one place with clean visual graphs.
+That is why we’d like to introduce BudgetBoss, a single-page budgeting app that will keep track of your money for you. With BudgetBoss, you can record your income and expenses in your various accounts and view them all in one place with clean visual graphs.
 
 Organize your monthly budget and see how you’re progressing daily and meeting your budget goals so you can be the boss of your own budget.<br/><br/>
 
@@ -35,7 +35,7 @@ Organize your monthly budget and see how you’re progressing daily and meeting 
 Clone the project
 
 ```bash
-  git clone https://github.com/pedro-lorandi/budget-boss
+  git clone https://github.com/binding1/budget-boss
 ```
 
 Go to the project directory
